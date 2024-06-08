@@ -1,4 +1,4 @@
-# conversor_moedas
+# Conversor de Moedas.
 Challenge do curso Java da Alura.
 
 O objetivo principal do challenge é viver uma experiência de realizar um projeto real, tal como ocorre no dia a dia de uma pessoa desenvolvedora.
